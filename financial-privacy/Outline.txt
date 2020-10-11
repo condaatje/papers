@@ -1,0 +1,76 @@
+
+										OUTLINE
+
+
+
+Introduction (1 page):
+	What is this paper about?
+	Why am I writing this paper?
+
+	Quick touch on every area that will be explored
+		- Economics of Illicit Markets
+		- Status of drug trade
+		- Current technology in drug markets
+		- Technology behind future of drug markets
+
+
+
+
+Economics of Illicit Markets (1 - 2 pages):
+	- Stats on illicit drug use
+	- Examination of current state of technology in drug trade
+	- Present the case for improved technology in drug trade
+		- see if you can quantify losses from poor tech: seizure, etc.
+
+
+
+
+
+
+XMR Nontechnical (1 page):
+	- Damage of violent drug trade
+	- Case for XMR reducing violence
+		- online drugs are nonviolent
+
+
+
+
+
+
+XMR Technical (2 pages):
+	- ECSDSA Cryptography
+	- Blockchain
+	- CryptoNote/CryptoNight
+	- CPU, GPU mining, ASIC resistance?
+	- Dynamic Blocksize
+	- Ring Signuatures
+	- Ring CT
+	- Powers of ten
+	- Stealth Addresses
+	- Send keys
+	- View keys
+
+
+
+
+
+
+
+Conclusion (1 page):
+	Here is what I set out to learn
+	Here is what I set out to explain
+
+	Summary of everything in the paper
+		Economics of illicit markets
+		Technical: Ring signatures, cryptonight, etc.
+
+	Here is what I learned
+	Here is what I explained
+
+
+
+
+
+
+
+
